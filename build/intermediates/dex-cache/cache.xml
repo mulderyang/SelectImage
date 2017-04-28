@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\jeny\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="F:\Android\AndroidStudioProjects\SelectImage\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_24d349bfd375fe7d1734e9995a10a3914a708b0d.jar" />
+    </item>
+    <item
+        jar="F:\Android\AndroidStudioProjects\SelectImage\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="fd70837d067e7af18d64c8eec02aec12de530ddb">
+        <dex dex="F:\Android\AndroidStudioProjects\SelectImage\app\build\intermediates\pre-dexed\debug\instant-run_eef7b8a92f12a528c81badbb7b8585d462061df6.jar" />
+    </item>
+    <item
+        jar="F:\Android\AndroidStudioProjects\SelectImage\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="376ec2829a7213498e0ce5bd17301625f4f434d8">
+        <dex dex="F:\Android\AndroidStudioProjects\SelectImage\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_1357530bd411867d31ad3bb430137ea2be976ca6.jar" />
+    </item>
+
+</items>
